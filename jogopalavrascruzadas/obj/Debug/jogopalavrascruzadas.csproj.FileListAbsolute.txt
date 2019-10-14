@@ -1,0 +1,26 @@
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\jogopalavrascruzadas.exe.config
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\jogopalavrascruzadas.exe
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\jogopalavrascruzadas.pdb
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.csprojAssemblyReference.cache
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.FPrincipal.resources
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.Properties.Resources.resources
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.csproj.GenerateResource.cache
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.csproj.CoreCompileInputs.cache
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.exe
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.pdb
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\dados.mdf
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\dados_log.ldf
+C:\Snippets\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.Form2.resources
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\dados.mdf
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\dados_log.ldf
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\jogopalavrascruzadas.exe.config
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\jogopalavrascruzadas.exe
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\bin\Debug\jogopalavrascruzadas.pdb
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.csprojAssemblyReference.cache
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.FPrincipal.resources
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.Form2.resources
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.Properties.Resources.resources
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.csproj.GenerateResource.cache
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.csproj.CoreCompileInputs.cache
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.exe
+C:\Users\data52331\Google Drive\ifsc.trabalhos.c#\jogo.palavrascruzadas\jogopalavrascruzadas\jogopalavrascruzadas\obj\Debug\jogopalavrascruzadas.pdb
